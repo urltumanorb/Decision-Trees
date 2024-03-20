@@ -1,6 +1,6 @@
 # Decision-Trees
 ## What is the project?
-This is a lab that In you will implement a decision tree from scratch and apply it to the task of classifying whether a mushroom is edible or poisonous. You will learn knowledge and technologies related to decision tree from this lab.
+This is a lab that you will implement a decision tree from scratch and apply it to the task of classifying whether a mushroom is edible or poisonous. You will learn knowledge and technologies related to decision tree from this lab.
 
 ## Concepts
 ### Decision-Tree
